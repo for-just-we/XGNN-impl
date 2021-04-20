@@ -1,0 +1,4 @@
+# XGNN-impl
+一个XGNN实现过程
+
+详细参考[可解释性研究（二）- XGNN](https://blog.csdn.net/qq_44370676/article/details/115872994)
